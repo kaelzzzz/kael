@@ -13,4 +13,3 @@ EXPOSE 4200
 
 # Start shellinabox
 CMD ["/usr/bin/shellinaboxd", "-t", "-s", "/:LOGIN"]
-￼Enter
